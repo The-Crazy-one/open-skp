@@ -19,3 +19,19 @@ Innovation: Die "Technik-Schublade" – Infrastruktur als Plug-and-Play Modul.
 🛒 [Wohntrolley]
 Konzept: Mobiler Wohnraum mit Fokus auf menschliche Würde.
 Innovation: "Dignity by Design" – Sitzen auf Augenhöhe statt Liegen auf dem Boden.
+
+**📜 Philosophie & Lizenz**  
+
+**Alle Projekte hier folgen dem Geist der Open Source Hardware.**
+
+**Keine Patente:** Die Pläne sind frei für alle.  
+**Lokale Produktion:** Ziel ist es, dass Hilfe weltweit lokal gefertigt werden kann.   
+**Lizenz:** [MIT / Creative Commons CC-BY-SA] – Jeder darf es nutzen, solange Verbesserungen geteilt werden.  
+
+---
+  
+Autor: The-Crazy-one  
+Status: Alpha / Community Draft  
+Lizenz: Open Source (MIT oder ähnlich)  
+  
+[Back to The-Crazy-one](https://github.com/The-Crazy-one/The-Crazy-one)  
