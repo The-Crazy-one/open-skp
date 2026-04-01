@@ -38,3 +38,4 @@ Praktische Anwendung der SKP-Methode auf reale Infrastruktur-Probleme.
 
 **[Back to ai4all](https://github.com/The-Crazy-one/ai4all)**  
 
+**[Back to The-Crazy-one](https://github.com/The-Crazy-one)**  
